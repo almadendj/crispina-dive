@@ -1,0 +1,14 @@
+{
+  "name": "crispina-dive",
+  "version": "1.0.0",
+  "description": "crispina dive web app",
+  "scripts": {
+    "twdev": "npx tailwindcss -i ./input.css -o ./style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "almadendj",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
